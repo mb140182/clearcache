@@ -1,0 +1,10 @@
+#.gitignore
+logs/
+*.log
+.cache/
+.hg/
+.hgignore
+*.bz2
+sandbox/
+
+

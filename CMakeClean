@@ -1,0 +1,16 @@
+#!/bin/bash
+#20231213122048
+
+pwd
+
+cp ./build/compile_commands.json ./compile_commands.json
+
+rm -rfv CMakeFiles CMakeCache.txt cmake_install.cmake install_manifest.txt
+rm -rfv ./bin/* ./build ./release ./debug build_cmake
+rm -rfv ./*.log
+rm -rfv ./main.exe
+
+rm -rfv .ninja_deps .ninja_log build.ninja
+
+#rm -rfv Test_cmake lib
+

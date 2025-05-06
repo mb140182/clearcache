@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/m/Documents/src/clearcache/build",
+  "command": "/usr/bin/c++  -I/home/m/Documents/src/clearcache/. -I/home/m/Documents/src/clearcache/./src -I/home/m/Documents/src/clearcache/./include -I/home/m/Documents/.service/include -O0 -DDEBUG_LEVEL=1 -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/Test_cmake.dir/main.cpp.o -c /home/m/Documents/src/clearcache/main.cpp",
+  "file": "/home/m/Documents/src/clearcache/main.cpp"
+},
+{
+  "directory": "/home/m/Documents/src/clearcache/build",
+  "command": "/usr/bin/c++  -I/home/m/Documents/src/clearcache/. -I/home/m/Documents/src/clearcache/./src -I/home/m/Documents/src/clearcache/./include -I/home/m/Documents/.service/include -O0 -DDEBUG_LEVEL=1 -g -Wall -Wextra -Wpedantic -std=c++17 -o CMakeFiles/Test_cmake.dir/my_threads.cpp.o -c /home/m/Documents/src/clearcache/my_threads.cpp",
+  "file": "/home/m/Documents/src/clearcache/my_threads.cpp"
+}
+]
