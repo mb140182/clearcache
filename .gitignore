@@ -2,6 +2,7 @@
 logs/
 *.log
 .cache/
+compile_commands.json
 .hg/
 .hgignore
 *.bz2
